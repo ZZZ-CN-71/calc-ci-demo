@@ -1,5 +1,6 @@
 name: Python单元测试
-
+permissions:
+  contents: read
 on: [push, pull_request]
 
 jobs:
